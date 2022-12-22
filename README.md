@@ -1,2 +1,2 @@
 # Heart-Diseases-Prediction
-Model for predicting whether a person is suffering from heart disease or not.
+Model for predicting whether a person is suffering from heart disease or not. We will first do the EDA (exploratory data analysis) then we will tarin different models like LogisticRegression, KNeighborsClassifier and  RandomForestClassifier and will decide the best model on the basis of  roc curve ,confusion_matrix() ,classification_report() ,precision_score() ,recall,f1_score().
